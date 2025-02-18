@@ -15,7 +15,7 @@ const decrementar = () => {
   contadpr.value--;
 };
 
-</script>
+</script
 
 <style>
 p {
